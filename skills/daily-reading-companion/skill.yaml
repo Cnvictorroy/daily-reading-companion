@@ -1,0 +1,5 @@
+name: "daily_reading_companion"
+title: "Daily Reading Companion"
+description: "Run a daily 30 minute reading habit with a reading notes knowledge base: outline and split a book into daily units, send one morning reminder with a guide and questions, and collect check-ins as quote, thought, key point or question notes by book."
+category: "Work and knowledge"
+include_in_prompt: false
